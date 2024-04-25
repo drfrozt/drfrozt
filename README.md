@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi 👋, I'm @drfrozt 
+#### 🥞 Full-Stack Software Engineer
+
+- 🔭 I’m interested in Web, Mobile, Data .... the whole damn Stack.
+- 🌱 I’m currently working on a Super Secret Project
+- 👯 I’m looking to collaborate on projects that actually make a difference  
+- 📫 Feel free to reach me at drfrozt@gmail.com
+
+
 
 <!--
 **drfrozt/drfrozt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
